@@ -1,5 +1,4 @@
 # Extract-information-from-identity-card
-Tutorial: [Recognize Identity Card Tutorial](https://viblo.asia/p/trich-xuat-thong-tin-tu-chung-minh-thu-bJzKmaRwK9N)
 
 ## 1. Pipeline
 
